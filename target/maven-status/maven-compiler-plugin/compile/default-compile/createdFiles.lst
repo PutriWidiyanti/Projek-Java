@@ -1,0 +1,5 @@
+latihan\putri\maven\BiodataApplication.class
+latihan\putri\maven\controller\BiodataController.class
+latihan\putri\maven\repository\BiodataRepository.class
+latihan\putri\maven\dao\BiodataDAO.class
+latihan\putri\maven\model\BiodataModel.class
